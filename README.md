@@ -1,9 +1,13 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://vengalarao1.io)
 <h1 align="center">Hi 👋, I'm Vengala Rao</h1>
-<h3 align="center">A passionate Mission Learning Engineer from India</h3>
-img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
+<h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vengalarao1&label=Profile%20views&color=0e75b6&style=flat" alt="vengalarao1" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vengalarao1&label=Profile%20views&color=0e75b6&style=flat" alt="vengalarao1" />
+</p>
+
 
 - 🔭 I’m currently working on **IOT Project**
 
