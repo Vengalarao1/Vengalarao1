@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://vengalarao1.io)
 <h1 align="center">Hi 👋, I'm Vengala Rao</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
