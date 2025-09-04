@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vengala Rao</h1>
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
+<h3 align="center">A passionate Python, Machine Learning,Data Science </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
@@ -8,7 +8,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **IOT Project**
+- 🔭 I’m currently working on **Data Science**
 
 - 📫 How to reach me **gaddamrao333@gmail.com**
 
